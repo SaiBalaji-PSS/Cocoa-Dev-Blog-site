@@ -1,0 +1,60 @@
+baseURL = "https://example.org/"
+languageCode = "en-us"
+title = "Cocoa Dev"
+theme = "PaperMod"
+paginate = 5
+enableRobotsTXT = true
+
+[params]
+  env = "production"
+  description = "iOS development notes — Swift, SwiftUI, and lessons from building real apps."
+  author = "Sai Balaji"
+  defaultTheme = "dark"
+  mainSections = ["posts"]
+  disableSpecial1stPost = false 
+  disableThemeToggle = false
+  ShowReadingTime = true
+  ShowCodeCopyButtons = true
+  ShowBreadCrumbs = true
+  ShowPostNavLinks = true
+  ShowWordCount = true
+  ShowShareButtons = true
+
+[params.homeInfoParams]
+    Title = "Hi there 👋"
+    Content = "Welcome to my blog about iOS Dev, Swift etc."
+
+[[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/SaiBalaji-PSS"
+
+[[params.socialIcons]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/sai-balaji-k-821061183/"
+
+[[menu.main]]
+  identifier = "posts"
+  name = "Posts"
+  url = "/posts/"
+  weight = 10
+
+[[menu.main]]
+    identifier = "search"
+    name = "Search"
+    url = "/search/"
+    weight = 15
+[markup.highlight]
+  noClasses = false
+  style = "monokai"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[params.fuseOpts]
+  isCaseSensitive = false
+  shouldSort = true
+  location = 0
+  distance = 1000
+  threshold = 0.4
+  minMatchCharLength = 0
+  keys = ["title", "permalink", "summary", "content"]
