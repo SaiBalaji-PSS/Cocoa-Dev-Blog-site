@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: http://localhost:1313/Cocoa-Dev-Blog-site/sitemap.xml
+Sitemap: https://SaiBalaji-PSS.github.io/Cocoa-Dev-Blog-site/sitemap.xml

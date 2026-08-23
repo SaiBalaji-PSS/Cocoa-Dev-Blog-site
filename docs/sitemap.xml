@@ -2,30 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/Cocoa-Dev-Blog-site/categories/</loc>
-    <lastmod>2026-08-23T14:12:31+05:30</lastmod>
+    <loc>https://SaiBalaji-PSS.github.io/Cocoa-Dev-Blog-site/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/Cocoa-Dev-Blog-site/</loc>
-    <lastmod>2026-08-23T14:12:31+05:30</lastmod>
+    <loc>https://SaiBalaji-PSS.github.io/Cocoa-Dev-Blog-site/</loc>
   </url><url>
-    <loc>http://localhost:1313/Cocoa-Dev-Blog-site/posts/gcd/</loc>
-    <lastmod>2026-08-23T14:12:31+05:30</lastmod>
+    <loc>https://SaiBalaji-PSS.github.io/Cocoa-Dev-Blog-site/posts/</loc>
   </url><url>
-    <loc>http://localhost:1313/Cocoa-Dev-Blog-site/categories/general/</loc>
-    <lastmod>2026-08-23T14:12:31+05:30</lastmod>
+    <loc>https://SaiBalaji-PSS.github.io/Cocoa-Dev-Blog-site/search/</loc>
   </url><url>
-    <loc>http://localhost:1313/Cocoa-Dev-Blog-site/tags/ios/</loc>
-    <lastmod>2026-08-23T14:12:31+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/Cocoa-Dev-Blog-site/posts/</loc>
-    <lastmod>2026-08-23T14:12:31+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/Cocoa-Dev-Blog-site/tags/swift/</loc>
-    <lastmod>2026-08-23T14:12:31+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/Cocoa-Dev-Blog-site/tags/</loc>
-    <lastmod>2026-08-23T14:12:31+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/Cocoa-Dev-Blog-site/search/</loc>
+    <loc>https://SaiBalaji-PSS.github.io/Cocoa-Dev-Blog-site/tags/</loc>
   </url>
 </urlset>
