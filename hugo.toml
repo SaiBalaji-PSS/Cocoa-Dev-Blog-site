@@ -1,9 +1,10 @@
-baseURL = "https://example.org/"
+baseURL = "https://SaiBalaji-PSS.github.io/Cocoa-Dev-Blog-site/"
 languageCode = "en-us"
 title = "Cocoa Dev"
 theme = "PaperMod"
 paginate = 5
 enableRobotsTXT = true
+publishDir = "docs"
 
 [params]
   env = "production"

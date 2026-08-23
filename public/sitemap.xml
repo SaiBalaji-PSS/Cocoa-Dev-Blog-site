@@ -2,30 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:59094/categories/</loc>
+    <loc>http://localhost:59094/Cocoa-Dev-Blog-site/categories/</loc>
     <lastmod>2026-08-23T14:12:31+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:59094/</loc>
+    <loc>http://localhost:59094/Cocoa-Dev-Blog-site/</loc>
     <lastmod>2026-08-23T14:12:31+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:59094/posts/gcd/</loc>
+    <loc>http://localhost:59094/Cocoa-Dev-Blog-site/posts/gcd/</loc>
     <lastmod>2026-08-23T14:12:31+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:59094/categories/general/</loc>
+    <loc>http://localhost:59094/Cocoa-Dev-Blog-site/categories/general/</loc>
     <lastmod>2026-08-23T14:12:31+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:59094/tags/ios/</loc>
+    <loc>http://localhost:59094/Cocoa-Dev-Blog-site/tags/ios/</loc>
     <lastmod>2026-08-23T14:12:31+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:59094/posts/</loc>
+    <loc>http://localhost:59094/Cocoa-Dev-Blog-site/posts/</loc>
     <lastmod>2026-08-23T14:12:31+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:59094/tags/swift/</loc>
+    <loc>http://localhost:59094/Cocoa-Dev-Blog-site/tags/swift/</loc>
     <lastmod>2026-08-23T14:12:31+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:59094/tags/</loc>
+    <loc>http://localhost:59094/Cocoa-Dev-Blog-site/tags/</loc>
     <lastmod>2026-08-23T14:12:31+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:59094/search/</loc>
+    <loc>http://localhost:59094/Cocoa-Dev-Blog-site/search/</loc>
   </url>
 </urlset>
