@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://SaiBalaji-PSS.github.io/Cocoa-Dev-Blog-site/sitemap.xml
