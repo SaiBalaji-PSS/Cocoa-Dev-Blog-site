@@ -2,6 +2,9 @@
 date = '2026-08-24T20:32:32+05:30'
 draft = false
 title = 'Dispatch Semaphore'
+tags = ['swift', 'ios']
+categories = ['general']
+summary = 'Dispatch Semaphore explained'
 +++
 
 # Dispatch Semaphore
