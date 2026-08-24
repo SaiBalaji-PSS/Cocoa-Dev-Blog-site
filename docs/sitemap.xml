@@ -2,10 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://SaiBalaji-PSS.github.io/Cocoa-Dev-Blog-site/categories/</loc>
-    <lastmod>2026-08-23T14:12:31+05:30</lastmod>
-  </url><url>
     <loc>https://SaiBalaji-PSS.github.io/Cocoa-Dev-Blog-site/</loc>
+    <lastmod>2026-08-24T20:32:32+05:30</lastmod>
+  </url><url>
+    <loc>https://SaiBalaji-PSS.github.io/Cocoa-Dev-Blog-site/posts/dispatch-semaphore/</loc>
+    <lastmod>2026-08-24T20:32:32+05:30</lastmod>
+  </url><url>
+    <loc>https://SaiBalaji-PSS.github.io/Cocoa-Dev-Blog-site/posts/</loc>
+    <lastmod>2026-08-24T20:32:32+05:30</lastmod>
+  </url><url>
+    <loc>https://SaiBalaji-PSS.github.io/Cocoa-Dev-Blog-site/categories/</loc>
     <lastmod>2026-08-23T14:12:31+05:30</lastmod>
   </url><url>
     <loc>https://SaiBalaji-PSS.github.io/Cocoa-Dev-Blog-site/posts/gcd/</loc>
@@ -15,9 +21,6 @@
     <lastmod>2026-08-23T14:12:31+05:30</lastmod>
   </url><url>
     <loc>https://SaiBalaji-PSS.github.io/Cocoa-Dev-Blog-site/tags/ios/</loc>
-    <lastmod>2026-08-23T14:12:31+05:30</lastmod>
-  </url><url>
-    <loc>https://SaiBalaji-PSS.github.io/Cocoa-Dev-Blog-site/posts/</loc>
     <lastmod>2026-08-23T14:12:31+05:30</lastmod>
   </url><url>
     <loc>https://SaiBalaji-PSS.github.io/Cocoa-Dev-Blog-site/tags/swift/</loc>
