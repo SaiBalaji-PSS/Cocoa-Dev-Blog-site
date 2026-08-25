@@ -6,8 +6,15 @@
     <description>Recent content in Swift on Cocoa Dev</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Aug 2026 20:32:32 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 21:38:40 +0530</lastBuildDate>
     <atom:link href="https://SaiBalaji-PSS.github.io/Cocoa-Dev-Blog-site/tags/swift/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dispatchgroup</title>
+      <link>https://SaiBalaji-PSS.github.io/Cocoa-Dev-Blog-site/posts/dispatchgroup/</link>
+      <pubDate>Tue, 25 Aug 2026 21:38:40 +0530</pubDate>
+      <guid>https://SaiBalaji-PSS.github.io/Cocoa-Dev-Blog-site/posts/dispatchgroup/</guid>
+      <description>Dispatch group explained</description>
+    </item>
     <item>
       <title>Dispatch Semaphore</title>
       <link>https://SaiBalaji-PSS.github.io/Cocoa-Dev-Blog-site/posts/dispatch-semaphore/</link>
