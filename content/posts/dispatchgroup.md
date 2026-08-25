@@ -7,7 +7,7 @@ categories = ['general']
 summary = 'Dispatch group explained'
 +++
 
-#Dispatch Group
+
 
 Dispatch group is an object which is used to monitor a group of task as a single unit. It is useful when we want to perform multiple asynchronous tasks concurrently and get notified when all of them are completed.
 
@@ -26,7 +26,7 @@ Dispatch Group object has following methods
 
 Disptach Group Maintains an internal counter value. When enter() is called the counter gets incremented, when leave() is called the counter gets decremented. When the counter value becomes 0 the notify will be called.
 
-###Note 
+### Note 
 * If the number of enter() exceeds the number of leave() then notify() may never fire. 
 
 * If number of leave() execeeds the number of enter() then it will crash
